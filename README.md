@@ -18,19 +18,16 @@
     <img src="img/darkxcode.PNG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Telegram Bot V1 PHP</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Telegram Bot V1 PHP for check card with gateway!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://t.me/DarkxcodeBot">View Demo</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://t.me/zlaxtert">Report Bug</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://t.me/zlaxtert">Request Feature</a>
   </p>
 </div>
 
