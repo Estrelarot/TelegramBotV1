@@ -48,7 +48,7 @@ _Here's how to install the bot._
 * Hosting on Server 
 * Download the Files from Here
 * Upload it to your Server and Extract it
-* Set Webhook to index.php in root folder of bot
+* Set Webhook to main.php in root folder of bot
 
 WEBHOOK URL
    ```sh
@@ -67,6 +67,8 @@ WEBHOOK URL
    /sk -> for check SK key 
    /help -> for help information
    ```
+
+**Format:** `card|month|year|cvv` → `4532123456789012|12|2025|123`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
