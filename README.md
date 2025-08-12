@@ -6,8 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Telegram][telegram-shield]][telegram-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -31,24 +30,21 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Output
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://t.me/DarkxcodeBot)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+This is the result if the code is successfully deployed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Features
 
+Features:
+* Check card with gate stripe
+* Check card with gate Braintree
+* Check card with gate VBV Check
+* Check BIN
 
 ### Built With
 
@@ -208,10 +204,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/zlaxtertdev/TelegramBotV1/stargazers
 [issues-shield]: https://img.shields.io/github/issues/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
 [issues-url]: https://github.com/zlaxtertdev/TelegramBotV1/issues
-[license-shield]: https://img.shields.io/github/license/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[license-url]: https://github.com/zlaxtertdev/TelegramBotV1/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[telegram-shield]: https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&colorB=555
+[telegram-url]: https://t.me/zlaxtert
 [product-screenshot]: img/ress.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
