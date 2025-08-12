@@ -2,9 +2,10 @@
 
 <a id="readme-top"></a>
 
-![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
-![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
-![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
+
+[![PHP][PHP-shield]][PHP-url]
+[![DARKXCODE][DARKXCODE-shield]][DARKXCODE-url]
+[![AUTHOR][AUTHOR-shield]][AUTHOR-url]
 
 
 
