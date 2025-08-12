@@ -29,15 +29,6 @@
 </div>
 
 
-<!-- ABOUT THE PROJECT -->
-## Output
-
-[![Product Name Screen Shot][product-screenshot]](https://t.me/DarkxcodeBot)
-
-This is the result if the code is successfully deployed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Features
 
 Features:
@@ -87,13 +78,22 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- OUTPUT -->
+## Output
+
+[![Product Name Screen Shot][product-screenshot]](https://t.me/DarkxcodeBot)
+
+This is the result if the code is successfully deployed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
 
-Telegram - [@zlaxtert](https://t.me/zlaxtert)
-Github - [@zlaxtertdev](https://github.com/zlaxtertdev)
-Stackoverflow - [@zlaxtert](https://stackoverflow.com/users/31033623)
+* Telegram - [@zlaxtert](https://t.me/zlaxtert)
+* Github - [@zlaxtertdev](https://github.com/zlaxtertdev)
+* Stackoverflow - [@zlaxtert](https://stackoverflow.com/users/31033623)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
