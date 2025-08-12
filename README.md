@@ -48,7 +48,7 @@ _Here's how to install the bot._
 * Hosting on Server 
 * Download the Files from Here
 * Upload it to your Server and Extract it
-* Set Webhook to main.php in root folder of bot
+* Set Webhook to index.php in root folder of bot
 
 WEBHOOK URL
    ```sh
