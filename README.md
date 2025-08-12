@@ -1,11 +1,11 @@
 # TelegramBotV1
 
 <a id="readme-top"></a>
-
+<div align="center">
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
 ![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
-
+</div>
 
 
 <!-- PROJECT LOGO -->
