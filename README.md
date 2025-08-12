@@ -58,15 +58,15 @@ WEBHOOK URL
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Commands
-    ```sh
-    !info -> for check information 
-    !bin -> for check BIN Card 
-    !stripe -> for check card gate Stripe 
-    !braintree for check card gate Braintree 
-    !vbv -> for check card gate VBV Check 
-    !sk -> for check SK key 
-    !help -> for help information
-    ```
+   ```sh
+   /info -> for check information 
+   /bin -> for check BIN Card 
+   /stripe -> for check card gate Stripe 
+   /braintree for check card gate Braintree 
+   /vbv -> for check card gate VBV Check 
+   /sk -> for check SK key 
+   /help -> for help information
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
