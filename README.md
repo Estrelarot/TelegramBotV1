@@ -2,10 +2,13 @@
 
 <a id="readme-top"></a>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![PHP][PHP-shield]][PHP-url]
-[![DARKXCODE][DARKXCODE-shield]][DARKXCODE-url]
-[![AUTHOR][AUTHOR-shield]][AUTHOR-url]
 
 
 
